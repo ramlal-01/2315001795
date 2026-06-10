@@ -145,8 +145,13 @@ No console-based logging is used for application events.
 The application is designed to work on:
 
 - Desktop
+  <img width="1433" height="913" alt="image" src="https://github.com/user-attachments/assets/7f11c1a8-b90c-4ee4-b9e0-b93f5006c824" />
+
 - Tablet
 - Mobile Devices
+  <img width="478" height="840" alt="image" src="https://github.com/user-attachments/assets/de9c822a-3ece-4cb9-a926-1af8daf4f4f2" />
+  <img width="493" height="803" alt="image" src="https://github.com/user-attachments/assets/d2c2d034-4adc-4ce4-8e58-f91c36fbb574" />
+
 
 Material UI components and responsive layouts are used throughout the application.
 
